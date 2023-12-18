@@ -4,7 +4,7 @@
 
 根据作业描述，ScroogeCoin的数据结构如下图所示
 
-![image-20231218145343828](README.assets/image-20231218145343828.png)
+![img.png](img.png)
 
 - 每一个Transaction包含该transaction的hash值，所有输入的链表和所有输出的链表。
 - 每一个Transaction的输入包含指向该输入的前一个Output的hash值，该输入的前一个Output的索引和该输入的签名。
